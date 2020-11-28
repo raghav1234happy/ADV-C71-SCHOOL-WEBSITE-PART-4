@@ -1,0 +1,114 @@
+body {
+    text-align: center;
+}
+
+#welcome {
+    color: #FFFFFF;
+    bottom: 0;
+    background: white;
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+
+#bio {
+    font-family: 'Cinzel Decorative', cursive;
+    padding: 50px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+
+#videos iframe {
+    width: 80%;
+}
+
+
+input {
+    background: grey;
+}
+
+
+.navbar-inverse {
+    position: fixed;
+    width: 100%;
+    background-color: white;
+    font-weight: bold;
+}
+
+.navbar-inverse :hover {
+    color: black !important;
+}
+
+
+
+.image1 {
+    height: 50%;
+    width: 50%;
+    margin-top: 50px;
+}
+
+.img1 {
+    height: 15%;
+    width: 30%;
+}
+
+#MissionandVision {
+    font-family: 'Cinzel Decorative', cursive;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+
+.atextGroup {
+    margin-bottom: 25px;
+    font-size: 20px;
+    text-align: left;
+}
+
+
+
+.atextGroup2 {
+    font-size: 17px;
+    text-align: left;
+}
+
+
+.abcd {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+.a1 {
+    font-size: 25px;
+}
+
+.atextgroup {
+    font-size: 20px;
+}
+
+.atextGroup {
+    font-size: 20px;
+}
